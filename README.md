@@ -1,7 +1,8 @@
 - Hello. I'm Masaki Tanaka. Thank you for your interest in my profile.
-- I'm a Ph.D. candidate in economics at Washington University in St. Louis. Before joining WashU, I was an economist at the Bank of Japan.
-- My research interest lies in macroeconomics, especially in monetary economics and macro-finance.
-  - If you want to know me or contact me, please visit my webpage (https://masaki-tanaka.com).
-  - My CV is available [here](https://masaki-tanaka.com/files/CV/Masaki-Tanaka_CV.pdf)
+- I'm an economist at the Research and Statistics Department of the Bank of Japan.
+- I earned a Ph.D. in Economics at Washington University in St. Louis (August 2025).
+- My research interest lies in macroeconomics, especially in monetary and fiscal policies and population aging.
+  - For more details, please visit my webpage (https://masaki-tanaka.com).
+  - My CV is also available [here](https://masaki-tanaka.com/files/CV/Masaki-Tanaka_CV.pdf)
 - I'll share the codes for my research here.
-- Disclaimer: All the codes available here are for my personal research. My affiliations do nothing with these codes. 
+- Disclaimer: All the codes available here are for my personal research. My affiliation does nothing with these codes. 
